@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SymmetricEncryptionAES</string>
+    <string name="original_text">Original Text</string>
+    <string name="encoded_text">Encoded Text</string>
+    <string name="decoded_text">Decoded Text</string>
+</resources>
